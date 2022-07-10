@@ -9,7 +9,7 @@ Please, install them before trying to execute any notebook, and then add the mma
 The [ETRI-Activity3D](https://ai4robot.github.io/etri-activity3d-en/#) dataset is also required to run the training and some scripts.
 
 ## Explanations in space and time
-![image info](images/xy-different-samples and x plus y and time.png)
+<img src="/images/xy-different-samples-and-x-plus-y-and-time.png" width="900" /> 
 
 ## Explanation examples
-![image info](images/best explanations.png)
+<img src="/images/best-explanations.pn" width="900" /> 

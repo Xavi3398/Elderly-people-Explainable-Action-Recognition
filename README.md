@@ -1,7 +1,6 @@
 # Elderly-people-Explainable-Action-Recognition
-This project contains all code used to train TimeSformer on video action recognition task using ETRI-Activity3D dataset, 
-as a Master's Thesis for the Master’s Degree in Intelligent Systems (MUSI) at the Universitat de les Illes Balears (UIB).
-You can find the trained model along with traininig and evaluation logs, generated explanations and more [here](https://drive.google.com/drive/folders/1Cn107VogSNAHN03PTPMW-Y4SCKoqP0KC?usp=sharing).
+This project contains all code used to train TimeSformer, TANet and TPN on the video activity recognition task using the ETRI-Activity3D dataset.
+You can find the trained model along with traininig and evaluation logs and generated explanations [here](https://drive.google.com/drive/folders/1Cn107VogSNAHN03PTPMW-Y4SCKoqP0KC?usp=share_link).
 
 ## Installation
 This project has dependencies on the [MMAction2](https://github.com/open-mmlab/mmaction2) and [LIME](https://github.com/marcotcr/lime) projects. 

@@ -1,5 +1,5 @@
 # Elderly-people-Explainable-Action-Recognition
-This project contains all code used in the conference article *"Explainable activity recognition for the elderly"*. It included training of TimeSformer, TANet and TPN networks on the human activity recognition from video task using the ETRI-Activity3D dataset, and the generation of separated space and time explanations.
+This project contains all code used in the conference article [*"Explainable activity recognition for the elderly"*](https://doi.org/10.1145/3612783.3612790). It included training of TimeSformer, TANet and TPN networks on the human activity recognition from video task using the ETRI-Activity3D dataset, and the generation of separated space and time explanations.
 
 You can find the trained models along with traininig and evaluation logs and generated explanations [here](https://drive.google.com/drive/folders/1Cn107VogSNAHN03PTPMW-Y4SCKoqP0KC?usp=share_link).
 
